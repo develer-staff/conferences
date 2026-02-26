@@ -88,7 +88,7 @@ No
 
 ### Call for Proposals
 
-GoLab is a comprehensive conference on the Go programming language, established in 2015 and organized by Develer, a software company based in Bologna, Italy. Designed by developers for developers, GoLab brings together experts and enthusiasts to share knowledge and innovation.
+GoLab is a comprehensive conference on the Go programming language, established in 2015 and organized by Develer, a software company based in Florence, Italy. Designed by developers for developers, GoLab brings together experts and enthusiasts to share knowledge and innovation.
 
 GoLab will be an in-person event. In this edition you will find talks and workshops.
 
@@ -178,11 +178,10 @@ Please check if you can get your visa in your country in time for the conference
 
 If your talk is accepted, congrats: you will be officially a GoLab 2026 speaker! 
 
-This grants you a free **Premium ticket** for the conference (free access to all talks and workshops) and free access to the social dinner.
-[1] Plus, we also offer a room at the Grand Hotel Mediterraneo (GoLab’s venue) for all the conference duration (2 nights for talks, 3 nights for workshops presenters).
+This grants you a free **Premium ticket** for the GoLab conference as well as for RustLab (free access to all talks and workshops) and free access to the social dinner.
+
+Plus, we also offer a room at the Grand Hotel Mediterraneo (GoLab’s venue) for all the conference duration (2 nights for talks, 3 nights for workshops presenters).
 
 We regret that **we can only cover accommodation**; travel expenses are not reimbursed.
-
-
 
 Let's have a great conference together!

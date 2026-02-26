@@ -41,7 +41,7 @@ https://{{conf-hostname}}
 ### Event Description
 
 
-{{conf-name}} is a comprehensive conference on {{conf-lang}} programming that started in {{conf-fist-year}}, organized by developers for developers.
+{{conf-name}} is a comprehensive conference on {{conf-lang}} programming that started in {{conf-first-year}}, organized by developers for developers.
 Since 2022, we have held {{conf-name}} and {{other-conf-name}} as a co-located conference, but this year they are back-to-back with a 1-day overlap.
 It is organized by Develer, a software company based in Florence, Italy.
 
@@ -178,11 +178,10 @@ Please check if you can get your visa in your country in time for the conference
 
 If your talk is accepted, congrats: you will be officially a {{conf-name}} 2026 speaker! 
 
-This grants you a free **Premium ticket** for the conference (free access to all talks and workshops) and free access to the social dinner.
-[1] Plus, we also offer a room at the Grand Hotel Mediterraneo ({{conf-name}}’s venue) for all the conference duration (2 nights for talks, 3 nights for workshops presenters).
+This grants you a free **Premium ticket** for the {{conf-name}} conference as well as for {{other-conf-name}} (free access to all talks and workshops) and free access to the social dinner.
+
+Plus, we also offer a room at the Grand Hotel Mediterraneo ({{conf-name}}’s venue) for all the conference duration (2 nights for talks, 3 nights for workshops presenters).
 
 We regret that **we can only cover accommodation**; travel expenses are not reimbursed.
-
-
 
 Let's have a great conference together!

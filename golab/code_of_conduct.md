@@ -44,7 +44,9 @@ If the matter is especially urgent, please contact any of these individuals or e
 
 - Mena Marotta (she/her)
 - Matteo Bertini (he/him)
-- Niccolò Pieretti (he/him)
+- Aurélien Rainone (he/him)
+- Federico Guerinoni (he/him)
+- Pietro Lorefice (he/him)
 
 
 The code of conduct team is empowered to, amongst other things:

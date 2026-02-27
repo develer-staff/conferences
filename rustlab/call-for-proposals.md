@@ -41,7 +41,7 @@ November 1-3, 2026
 ### Event Description
 
 
-RustLab is a comprehensive conference on Rust programming that started in 2015, organized by developers for developers.
+RustLab is a comprehensive conference on Rust programming that started in 2019, organized by developers for developers.
 Since 2022, we have held RustLab and GoLab as a co-located conference, but this year they are back-to-back with a 1-day overlap.
 It is organized by Develer, a software company based in Florence, Italy.
 
@@ -88,7 +88,7 @@ No
 
 ### Call for Proposals
 
-RustLab is a comprehensive conference on the Go programming language, established in 2015 and organized by Develer, a software company based in Bologna, Italy. Designed by developers for developers, RustLab brings together experts and enthusiasts to share knowledge and innovation.
+RustLab is a comprehensive conference on the Rust programming language, established in 2015 and organized by Develer, a software company based in Florence, Italy. Designed by developers for developers, RustLab brings together experts and enthusiasts to share knowledge and innovation.
 
 RustLab will be an in-person event. In this edition you will find talks and workshops.
 
@@ -104,9 +104,9 @@ Workshops can be 3 or 6 hours long, focusing on practical case studies in an int
 
 ## Topics
 
-RustLab is receptive to proposals on any Go-related subject matter, including but not limited to cloud computing, networking, programming languages, ecosystems, devices, platforms, and security. Additionally, we encourage submissions that span multiple topics.
+RustLab is receptive to proposals on any Rust-related subject matter, including but not limited to cloud computing, networking, programming languages, ecosystems, devices, platforms, and security. Additionally, we encourage submissions that span multiple topics.
 
-Even if your talk is not strictly Go-related, we encourage you to submit it. We welcome challenging and unconventional proposals!
+Even if your talk is not strictly Rust-related, we encourage you to submit it. We welcome challenging and unconventional proposals!
 
 
 ### CFP Notes
@@ -178,11 +178,10 @@ Please check if you can get your visa in your country in time for the conference
 
 If your talk is accepted, congrats: you will be officially a RustLab 2026 speaker! 
 
-This grants you a free **Premium ticket** for the conference (free access to all talks and workshops) and free access to the social dinner.
-[1] Plus, we also offer a room at the Grand Hotel Mediterraneo (RustLab’s venue) for all the conference duration (2 nights for talks, 3 nights for workshops presenters).
+This grants you a free **Premium ticket** for the RustLab conference as well as for GoLab (free access to all talks and workshops) and free access to the social dinner.
+
+Plus, we also offer a room at the Grand Hotel Mediterraneo (RustLab’s venue) for all the conference duration (2 nights for talks, 3 nights for workshops presenters).
 
 We regret that **we can only cover accommodation**; travel expenses are not reimbursed.
-
-
 
 Let's have a great conference together!
